@@ -21,3 +21,4 @@ This project uses some basic HTML elements and is a short introduction of me.
 ## Getting started
 
 Clone the repository from github using `git clone`
+Open the file `index.html` on your browser
