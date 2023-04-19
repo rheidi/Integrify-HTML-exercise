@@ -16,7 +16,7 @@ This project uses some basic HTML elements and is a short introduction of me.
 .
 ├── README.md
 ├── index.html
-├── mir_ja_papu.png
+└── mir_ja_papu.png
 
 ## Getting started
 
